@@ -1,0 +1,216 @@
+// :root {
+//     //ТЕКСТ
+//     // текст в хедере
+//     --var-header-text: #726F7B;
+//     //активная ссылка
+//     --var-header-text-active: #FFFFFF;
+
+
+//     //основной текст
+//     --var-body-text: rgba(47, 43, 61, 0.7);
+
+//     //основной текст заголовки 
+//     --var-body-title: #2F2B3D;
+
+
+//     //серый текст 
+
+//     //серый заголовки 
+//     --var-title-grey: #5D5A68;
+
+//     //серый подзаголовки 
+//     --var-subtitle-grey: #9C9AA3;
+
+//     //серые lead
+//     --var-lead-grey: rgba(93, 90, 104, 0.8);
+
+//     //оранжевый цвет
+
+//     --var-orange: rgba(254, 153, 71, 0.8);
+
+//     //оранжевый фон 
+
+//     --var-orange-bg: #FFF1E4;
+
+//     //футер СИНИЙ текст
+    
+//     --var-lead-blue: #32679B;
+
+//     //фиолетовый текст
+//     --var-purple-text: #494DB5;
+
+//     //ФОН
+//     //фон страницы
+//     --var-body-bg: rgba(248,247,250,1);
+    
+//     //фон блока
+//     --var-block-bg: rgba(255,255,255,0.8);
+
+//     //фон хедера
+//     --var-header-bg: rgba(255, 255, 255, 0.9);
+
+//     --var-red: #EA5455;
+
+//     //синий фон
+//     --var-blue-bg: rgba(0, 67, 131, 0.8);
+
+//     //фиолетовый фон
+//     --var-purple-bg: #E6EAFF;
+//     --var-purple-bg-hover: #dde2f8;
+    
+//     //SVG
+
+//     //фиолетовый svg
+//     //фиолетовыйфон для svg
+//     --var-svg-purple-bg: #EAE7FF;
+//     --var-svg-purple: rgba(128, 117, 221, 1);
+
+//     //оранжевый svg
+//     //оранжевый фон для svg
+//     --var-svg-orange-bg: #FFF1E4;
+//     --var-svg-orange: rgba(254, 153, 71, 1);
+
+//     //зеленый svg
+//     //зеленый фон для svg
+//     --var-svg-green-bg: #E2F6EA;
+//     --var-svg-green: rgba(73, 181, 123, 1);
+
+//     //серый svg
+//     //сиреневый фон для svg
+//     --var-svg-lilac-bg: #F1F1FF;
+//     --var-svg-grey-dark: rgba(151, 151, 151, 1);
+
+//     //голубой фон для svg
+//     --var-svg-blue-bg: #E6EAFF;
+
+//     --var-svg-grey: #726F7B;
+//     //BORDER
+//     --var-border-grey: #DDDCE0;
+
+
+//     // INPUT BORDER
+//     --var-border-input: rgba(93, 90, 104, 0.5);
+
+//     // INPUT PLACEHOLDER
+//     --var-placeholder-grey: #BEBDBF;
+
+//     //кнопки ховеры
+
+//     //голубая кнопка
+//     --var-btn-hover-blue: rgb(38, 93, 148);
+
+    
+//     //красная кнопка
+//     --var-btn-hover-red: rgb(221, 8, 9);
+
+//     --var-btn-red: rgb(255, 21, 21);
+// }
+
+// [dark] {
+//     // текст в хедере
+//     --var-header-text: #D0D4F1;
+
+//     //активная ссылка
+//     --var-header-text-active: #FFFFFF;
+
+
+//     //основной текст
+//     --var-body-text: rgba(208, 212, 241, 0.7);
+
+//     //основной текст заголовки 
+//     --var-body-title: #D0D4F1;
+
+
+//     //серый заголовки 
+//     --var-title-grey: #D0D4F1;
+
+//     //серый подзаголовки 
+//     --var-subtitle-grey: rgba(208, 212, 241, 0.8);
+
+//     //серые lead
+//     --var-lead-grey: rgba(208, 212, 241, 0.6);
+
+//     //футер СИНИЙ текст
+
+//     --var-lead-blue: #308EEB;
+
+
+//     //фон страницы
+//     --var-body-bg: rgba(38,42,61,1);
+
+//     //фон блока
+//     --var-block-bg: #2E3248;
+
+//     //фон хедера
+//     --var-header-bg: rgba(46, 50, 72, 0.8);
+
+//     //синий фон
+//     --var-blue-bg: #004383;
+
+//     //SVG
+
+//     //фиолетовый svg
+//     //фиолетовыйфон для svg
+//     --var-svg-purple-bg: #393B63;
+//     --var-svg-purple: rgba(128, 117, 221, 1);
+
+//     //оранжевый svg
+//     //оранжевый фон для svg
+//     --var-svg-orange-bg: #504448;
+//     --var-svg-orange: rgba(254, 153, 71, 1);
+
+//     //зеленый svg
+//     //зеленый фон для svg
+//     --var-svg-green-bg: #2D4B4F;
+//     --var-svg-green: rgba(73, 181, 123, 1);
+
+//     //серый svg
+//     //сиреневый фон для svg
+//     --var-svg-lilac-bg: #424659;
+//     --var-svg-grey-dark: rgba(151, 151, 151, 1);
+
+//     //голубой фон для svg
+//     --var-svg-blue-bg: #e6eaffbf;
+
+//     --var-svg-grey: #D0D4F1;
+
+//     //BORDER
+//     --var-border-grey: rgba(208, 212, 241, 0.7);
+
+//     // INPUT BORDER
+//     --var-border-input: rgba(208, 212, 241, 0.7);
+
+
+//     //оранжевый цвет
+
+//     --var-orange: rgba(254, 153, 71, 1);
+
+//     //оранжевый фон 
+
+//     --var-orange-bg: #504448;
+
+//     //фиолетовый текст
+//     --var-purple-text: rgba(128, 117, 221, 1);
+
+    
+//     //фиолетовый фон
+//     --var-purple-bg: #393B63;
+//     --var-purple-bg-hover: #40426e;
+
+//     // INPUT PLACEHOLDER
+//     --var-placeholder-grey: #BEBDBF;
+
+//     //фиолетовый svg
+//     --var-svg-purple: rgba(128, 117, 221, 1);
+
+//     //оранжевый svg
+//     --var-svg-purple: rgba(128, 117, 221, 1);
+
+//     //зеленый svg
+//     --var-svg-purple: rgba(128, 117, 221, 1);
+
+//     //красная кнопка
+//     --var-btn-hover-red: rgb(221, 8, 9);
+
+//     --var-btn-red: rgb(227, 48, 48);
+// }
